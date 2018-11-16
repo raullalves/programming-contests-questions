@@ -1,4 +1,3 @@
-#include "pch.h"
 #include <stdio.h>
 #include <cstring>
 #pragma warning(disable:4996)
